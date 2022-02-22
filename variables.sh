@@ -1,6 +1,6 @@
-hello
+echo "hello"
 
-welcome to variables in the shellscript
+echo "welcome to variables in the shellscript"
 
 
 there are two types of the variables in the shellscript 
@@ -10,4 +10,8 @@ there are two types of the variables in the shellscript
 
 2.user defined variables
 
+a=10
+b=10
 
+echo $a
+echo $b

@@ -1,0 +1,7 @@
+hello
+welcome to new concept calld the branches
+
+to check branches use git branches
+
+git branches branchname
+git checkout branchname

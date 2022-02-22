@@ -1,3 +1,5 @@
+echo " Updated in Development mode"
+
 echo "hello"
 
 echo "welcome to variables in the shellscript"
